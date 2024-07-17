@@ -68,8 +68,8 @@ footer {
 
 .profile-picture {
     width: 200px; /* Adjust the size as needed */
-    height: 200px;
-    border-radius: 20%; /* This makes the image circular */
+    height: 240px;
+    border-radius: 30px; 
     object-fit: cover; /* This ensures the image covers the area without stretching */
     margin-bottom: 20px; /* Adds some space below the image */
 }
