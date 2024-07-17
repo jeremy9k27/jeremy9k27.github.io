@@ -68,7 +68,7 @@ footer {
 
 .profile-picture {
     width: 200px; /* Adjust the size as needed */
-    height: 240px;
+    height: 270px;
     border-radius: 30px; 
     object-fit: cover; /* This ensures the image covers the area without stretching */
     margin-bottom: 20px; /* Adds some space below the image */
